@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/qiniu/qmgo/middleware"
-	"github.com/qiniu/qmgo/operator"
-	qOpts "github.com/qiniu/qmgo/options"
+	"github.com/zhb127/qmgo/middleware"
+	"github.com/zhb127/qmgo/operator"
+	qOpts "github.com/zhb127/qmgo/options"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/bsoncodec"
 	"go.mongodb.org/mongo-driver/mongo"

@@ -18,9 +18,9 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/qiniu/qmgo/operator"
-	"github.com/qiniu/qmgo/options"
 	"github.com/stretchr/testify/require"
+	"github.com/zhb127/qmgo/operator"
+	"github.com/zhb127/qmgo/options"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/event"

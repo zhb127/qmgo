@@ -1,10 +1,10 @@
 package middleware
 
 import (
-	"github.com/qiniu/qmgo/field"
-	"github.com/qiniu/qmgo/hook"
-	"github.com/qiniu/qmgo/operator"
-	"github.com/qiniu/qmgo/validator"
+	"github.com/zhb127/qmgo/field"
+	"github.com/zhb127/qmgo/hook"
+	"github.com/zhb127/qmgo/operator"
+	"github.com/zhb127/qmgo/validator"
 )
 
 // callback define the callback function type

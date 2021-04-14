@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/qiniu/qmgo/operator"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
+	"github.com/zhb127/qmgo/operator"
 )
 
 type User struct {

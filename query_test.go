@@ -24,7 +24,7 @@ import (
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"
 
-	"github.com/qiniu/qmgo/operator"
+	"github.com/zhb127/qmgo/operator"
 )
 
 type QueryTestItem struct {

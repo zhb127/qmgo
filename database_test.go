@@ -19,8 +19,8 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/readpref"
 	"testing"
 
-	opts "github.com/qiniu/qmgo/options"
 	"github.com/stretchr/testify/require"
+	opts "github.com/zhb127/qmgo/options"
 	"go.mongodb.org/mongo-driver/bson"
 )
 
